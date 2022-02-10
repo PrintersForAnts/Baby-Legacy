@@ -1,6 +1,6 @@
 # Baby-Legacy
 
-![snapshot](pic/snapshot.jpg)
+
 
 **NOTICE!!!!!**
 
