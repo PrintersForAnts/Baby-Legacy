@@ -16,9 +16,9 @@
 
 Misumi Part #  |Qty | Notes
  :---|----|----
-HFS3-1515-240 |2 | Blind holes need to be drilled
+HFS3-1515-280 |2 | Blind holes need to be drilled
 HFS3-1515-240 |4 | Ends need tp be tapped (M3) 
-HFS3-1515-240 |2 | Blind holes need to be drilled; Drill a blind hole 47.5mm away from one end 
+HFS3-1515-280 |2 | Blind holes need to be drilled; Drill a blind hole 67.5mm away from one end 
 HFS3-1515-230 |4| Ends need to be tapped (M3)
 HFS3-1515-215 |1 |
 HFS3-1515-130 |2 |
@@ -45,7 +45,7 @@ Motor size：
 
 - XY motor: NEMA 14 （35步进）
 
-- Z motor: NEMA 17 （42丝杆电机）
+- Z motor: NEMA 17 with 200mm leadscrew（42丝杆电机）
 
 - E motor: NEMA 14 pancake （36圆饼电机）
 
