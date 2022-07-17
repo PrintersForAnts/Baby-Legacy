@@ -4,7 +4,7 @@
 
 ## BoM
 
-[BoM on Google Sheets (always up to date)]https://docs.google.com/spreadsheets/d/1TMW4EepsQAR4NBXpeXJ_ljJLNDhGHAeN1SF3FQySB-4/edit?usp=sharing)
+[BoM on Google Sheets (always up to date)](https://docs.google.com/spreadsheets/d/1TMW4EepsQAR4NBXpeXJ_ljJLNDhGHAeN1SF3FQySB-4/edit?usp=sharing)
 
 ## Credits
 
