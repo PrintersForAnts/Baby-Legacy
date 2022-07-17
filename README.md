@@ -2,6 +2,11 @@
 
 ![pic1](Images/pic1.PNG)
 
+## BoM
+
+[BoM on Google Sheets (always up to date)]https://docs.google.com/spreadsheets/d/1TMW4EepsQAR4NBXpeXJ_ljJLNDhGHAeN1SF3FQySB-4/edit?usp=sharing)
+
+## Credits
 
 [Forked from Super6b Baby-Legacy](https://github.com/PrintersForAnts/Baby-Legacy)
 
