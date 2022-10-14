@@ -21,7 +21,7 @@ HFS3-1515-240 |4 | Ends need tp be tapped (M3)
 HFS3-1515-280 |2 | Blind holes need to be drilled; Drill a blind hole 67.5mm away from one end 
 HFS3-1515-230 |4| Ends need to be tapped (M3)
 HFS3-1515-215 |1 |
-HFS3-1515-130 |2 |
+HFS3-1515-130 |2 |For electronic case.Could be longer for more space. BUT NO LONGER THAN 160mm.
 HFS3-1515-80 |2 |
 
 ### Linear Shaft
@@ -29,9 +29,10 @@ HFS3-1515-80 |2 |
 
 Part  | Qty | Length
 -----|----|-----
+Linear Shaft 6mm Shaft | 4 | 210mm 
 Linear Shaft 6mm Shaft | 4 | 200mm 
  Linear Shaft 6mm Shaft | 2    | 188mm  
- Linear Shaft 6mm Shaft | 4    | 170mm  
+ ~~Linear Shaft 6mm Shaft~~ | ~~4~~ | ~~170mm~~ 
 
 ## Build plate
 
