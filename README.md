@@ -1,6 +1,10 @@
 # Baby-Legacy
 
-![pic3](pic/pic3.jpg)
+![main image](pic/221016snapshot.jpg)
+
+The Latest STLs haven't updated yet.
+
+最新STL文件未上传。
 
 **NOTICE!!!!!**
 
@@ -52,13 +56,14 @@ Motor size：
 
 
 
-## Something more...
+## Update log
+
+- 2022/10/16
+
+  Add skirt.
 
 
 
 
 
 [Based on VORON DESIGN LEGACY](https://github.com/VoronDesign/Voron-Legacy)
-
-
-
